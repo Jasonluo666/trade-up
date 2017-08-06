@@ -1,15 +1,17 @@
 # Audit Landing Page
 
 ## how to build and run from source
-1. clone the repository
-2. make sure you have Node.js installed
-3. run ```npm install```
-4. run ```npm run dev```
-5. navigate to http://localhost:8080/
+1. make sure you have Node.js installed (https://nodejs.org/en/download/)
+2. clone the repository
+3. use CMD and navigate to the position of cloned repository
+4. run ```npm install```
+5. run ```set NODE_ENV=debug``` (for Windows)
+6. run ```npm run dev```
+
 
 ## how to build for production
 ### Windows
-run the command: ```set NODE_ENV=production```
+run the command: ```set NODE_ENV=debug```
 before running ```npm run dev```
 
 ## technology stack
