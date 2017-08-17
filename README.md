@@ -64,7 +64,7 @@ https://github.com/davidRoussov/trade-up/wiki/Project-Progress
 
 
 ### External Reference List
-- ### [JIRA](https://tradeup123.atlassian.net) 
+- ### [JIRA](https://tradeup123.atlassian.net/projects/TR/summary) 
 - ### [Doodle](https://doodle.com/poll/txw9s4fut7ve6bg4)
 - ### [Github](https://github.com/davidRoussov/trade-up)
 - ### [Ionic creator](https://creator.ionic.io/)
