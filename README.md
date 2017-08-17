@@ -5,30 +5,36 @@ Trade-up is a software company that aims to solve the inefficiency of the labour
 
 Trade-up would like the techlauncher team to implement a few new features such as figuring out how many people are there on site, which can enhance their existing website system. Thus, the vision of Trade-up is to automate current default values associated with productivity of construction companies with existing and future data to generate such values.
 
-#### Project Concept Audit Page
+**Project Concept Audit Page:**
 https://docs.google.com/document/d/1mu8zJIkGX378RX0C6-PbX-QkMKCw04a6NJeGHsSYLMY/edit?usp=sharing
 
 
 ### Team Members
-The purpose of this project is to provide current Trade-Up users a resourcing module to the existing Trade-Up Platform. In other words, Trade-Up would like to automate the current default values to dynamic real-life values based upon past data. 
-
-Trade-Up already provides services in tracking the productivity results of construction employees on a daily basis. This includes timesheets. This can now be enhanced by providing the user a workflow to first estimate the number of workers required to be rostered on each construction site, moving on to allocating specific workers and then disseminating the information to staff through electronic means. 
-
-Different to other rostering systems in the marketplace, Trade-Up will incorporate daily results of project completion and work speed, combined with required project completion dates to give updated estimates of workers required to complete the project on time. 
-
-The team have access to a demo company on the Trade-Up system with projects, employees and Timesheets entered to use as sample data. 
+1. Team Lead: Jie Gao
+2. Technical Lead: David Roussov
+3. Communication Lead:  Lin Peng (Atlas) & You Hong
+4. Team member: Honggu Lin & Jiangshan Luo (Jason)
 
 
-# _How our Project will Make Things Better to Clients_
-- We plan to use agile project management method in meeting with our client’s needs more effectively & efficiently. This will include: effective communication within team and customers; provide seamless/end-to-end experience; TDD testing plan to ensure the quality of the product; daily scrum meeting makes members more productive; sprint review meeting and sprint planning meeting give regular feedback to the customers.
+### CLIENT - Trade-Up
+**Business owner**
+&nbsp;&nbsp;&nbsp;&nbsp; Annalisa O’ Sullivan
 
-- Our project will add new features to the existing software to make the existing software more intelligent more comprehensive and more detailed and thus better and more to meet customer requirements.
+&nbsp;&nbsp;&nbsp;&nbsp; Trent O’ Sullivan
+
+**Consultant**
+&nbsp;&nbsp;&nbsp;&nbsp; Bruce Hyslop
+
+**External contractors**
+&nbsp;&nbsp;&nbsp;&nbsp; Wollemi Systems including Maria Garcia, Chris Kingdom and Brendan Leeper
 
 
+### Stakeholders’ Expectations
+They want to have a mobile web application, which can integrate their own system later, satisfying three main aims:
+1. Should take into account finish date and productivity result to date
+2. Updated daily based on productivity results and staff availability
+3. Disseminate Roster information to employees and Foreman
 
-# _Project milestones, scheduling and deliverables_
-- 3 Epics includes 13 stories within 2 semesters; 
 
-- 5 Sprints in total (2 weeks 1 sprint) in this semester; 
+### [Current Project Progress](https://github.com/Jasonluo666/trade-up/wiki/Project-Progress)
 
-- We are required by our client to deliver at least Epic 1 by the end of week 10;
