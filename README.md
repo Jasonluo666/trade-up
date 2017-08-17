@@ -9,6 +9,9 @@ Trade-up would like the techlauncher team to implement a few new features such a
 
 https://docs.google.com/document/d/1mu8zJIkGX378RX0C6-PbX-QkMKCw04a6NJeGHsSYLMY/edit?usp=sharing
 
+**Project Wiki:**
+
+https://github.com/davidRoussov/trade-up/wiki
 
 ### Team Members
 1. Team Lead: Jie Gao
@@ -47,7 +50,7 @@ They want to have a mobile web application, which can integrate their own system
 https://github.com/Jasonluo666/trade-up/tree/master/project
 
 
-### Project milestones, scheduling and deliverables
+### Project Milestones, Scheduling and Deliverables
 
 - 3 Epics includes 13 stories within 2 semesters; 
 
@@ -66,3 +69,4 @@ https://github.com/davidRoussov/trade-up/wiki/Project-Progress
 - ### [Github](https://github.com/davidRoussov/trade-up)
 - ### [Ionic creator](https://creator.ionic.io/)
 - ### [Google drive](https://drive.google.com/drive/folders/0B-KwcSa5tCbxcms0NWh1a3ZHcFE?usp=sharing)
+
