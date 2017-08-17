@@ -6,6 +6,7 @@ Trade-up is a software company that aims to solve the inefficiency of the labour
 Trade-up would like the techlauncher team to implement a few new features such as figuring out how many people are there on site, which can enhance their existing website system. Thus, the vision of Trade-up is to automate current default values associated with productivity of construction companies with existing and future data to generate such values.
 
 **Project Concept Audit Page:**
+
 https://docs.google.com/document/d/1mu8zJIkGX378RX0C6-PbX-QkMKCw04a6NJeGHsSYLMY/edit?usp=sharing
 
 
@@ -38,11 +39,14 @@ They want to have a mobile web application, which can integrate their own system
 
 ### HOW TO RUN THE PROJECT
 
-Navigate to our project:
+**Navigate to our project:**
 
+https://github.com/Jasonluo666/trade-up/tree/master/project
 
 ### Current Project Progress
+
 https://github.com/davidRoussov/trade-up/wiki/Project-Progress
+
 **Current sprint: sprint 1**
 
 **Total sprints in this semester: 5**
@@ -50,3 +54,9 @@ https://github.com/davidRoussov/trade-up/wiki/Project-Progress
 **Period: 07/Aug/17 10:45 AM - 21/Aug/17 10:45 AM**
 
 
+# External Reference List
+- ### [JIRA](https://tradeup123.atlassian.net) 
+- ### [Doodle](https://doodle.com/poll/txw9s4fut7ve6bg4)
+- ### [Github](https://github.com/davidRoussov/trade-up)
+- ### [Ionic creator](https://creator.ionic.io/)
+- ### [Google drive](https://drive.google.com/drive/folders/0B-KwcSa5tCbxcms0NWh1a3ZHcFE?usp=sharing)
