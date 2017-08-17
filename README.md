@@ -47,7 +47,7 @@ They want to have a mobile web application, which can integrate their own system
 
 **Navigate to our project:**
 
-https://github.com/Jasonluo666/trade-up/tree/master/project
+https://github.com/davidRoussov/trade-up/tree/master/project
 
 
 ### Project Milestones, Scheduling and Deliverables
