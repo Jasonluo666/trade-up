@@ -47,15 +47,17 @@ They want to have a mobile web application, which can integrate their own system
 https://github.com/Jasonluo666/trade-up/tree/master/project
 
 
-### Current Project Progress
+### Project milestones, scheduling and deliverables
+
+- 3 Epics includes 13 stories within 2 semesters; 
+
+- 5 Sprints in total (2 weeks 1 sprint) in this semester; 
+
+- We are required by our client to deliver at least Epic 1 by the end of week 10;
+
+**Current Project Progress:**
 
 https://github.com/davidRoussov/trade-up/wiki/Project-Progress
-
-**Current sprint: sprint 1**
-
-**Total sprints in this semester: 5**
-
-**Period: 07/Aug/17 10:45 AM - 21/Aug/17 10:45 AM**
 
 
 ### External Reference List
