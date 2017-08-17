@@ -23,17 +23,17 @@ https://github.com/davidRoussov/trade-up/wiki
 ### CLIENT - Trade-Up
 **Business owner**
 
-&nbsp;&nbsp;&nbsp;&nbsp; Annalisa O’ Sullivan
+&nbsp;&nbsp;&nbsp;&nbsp;Annalisa O’ Sullivan
 
-&nbsp;&nbsp;&nbsp;&nbsp; Trent O’ Sullivan
+&nbsp;&nbsp;&nbsp;&nbsp;Trent O’ Sullivan
 
 **Consultant**
 
-&nbsp;&nbsp;&nbsp;&nbsp; Bruce Hyslop
+&nbsp;&nbsp;&nbsp;&nbsp;Bruce Hyslop
 
 **External contractors**
 
-&nbsp;&nbsp;&nbsp;&nbsp; Wollemi Systems including Maria Garcia, Chris Kingdom and Brendan Leeper
+&nbsp;&nbsp;&nbsp;&nbsp;Wollemi Systems including Maria Garcia, Chris Kingdom and Brendan Leeper
 
 
 ### Stakeholders’ Expectations
