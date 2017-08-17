@@ -65,6 +65,5 @@ https://github.com/davidRoussov/trade-up/tree/master/project
 - ### [JIRA](https://tradeup123.atlassian.net/projects/TR/summary) 
 - ### [Doodle](https://doodle.com/poll/txw9s4fut7ve6bg4)
 - ### [Github](https://github.com/davidRoussov/trade-up)
-- ### [Ionic creator](https://creator.ionic.io/)
 - ### [Google drive](https://drive.google.com/drive/folders/0B-KwcSa5tCbxcms0NWh1a3ZHcFE?usp=sharing)
 
