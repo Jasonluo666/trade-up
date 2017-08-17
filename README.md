@@ -58,9 +58,7 @@ https://github.com/davidRoussov/trade-up/tree/master/project
 
 - We are required by our client to deliver at least Epic 1 by the end of week 10;
 
-**Current Project Progress:**
-
-https://github.com/davidRoussov/trade-up/wiki/Project-Progress
+**Current Project Progress:** https://github.com/davidRoussov/trade-up/wiki/Project-Progress
 
 
 ### External Reference List
