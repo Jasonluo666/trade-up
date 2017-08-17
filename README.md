@@ -36,5 +36,17 @@ They want to have a mobile web application, which can integrate their own system
 3. Disseminate Roster information to employees and Foreman
 
 
-### [Current Project Progress](https://github.com/Jasonluo666/trade-up/wiki/Project-Progress)
+### HOW TO RUN THE PROJECT
+
+Navigate to our project:
+
+
+### Current Project Progress
+https://github.com/davidRoussov/trade-up/wiki/Project-Progress
+**Current sprint: sprint 1**
+
+**Total sprints in this semester: 5**
+
+**Period: 07/Aug/17 10:45 AM - 21/Aug/17 10:45 AM**
+
 
